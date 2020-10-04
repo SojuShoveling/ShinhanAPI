@@ -1,0 +1,11 @@
+V:\Csharp\ShinhanAPI\Build\ShinhanAPI\ShinhanAPI.dll
+V:\Csharp\ShinhanAPI\Build\ShinhanAPI\ShinhanAPI.pdb
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.csprojAssemblyReference.cache
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\Interop.GIEXPERTCONTROLLib.dll
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\AxInterop.GIEXPERTCONTROLLib.dll
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.csproj.ResolveComReference.cache
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.ShinhanAPI.Ocx.resources
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.csproj.GenerateResource.cache
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.csproj.CoreCompileInputs.cache
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.dll
+V:\Csharp\ShinhanAPI\ShinhanAPI\obj\Release\ShinhanAPI.pdb
